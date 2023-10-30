@@ -8,6 +8,7 @@ env:
   IMAGE_REGISTRY_URL: ghcr.io
   ###############################################
   ### Replace <username> with GitHub username ###
+  
   ###############################################
   DOCKER_IMAGE_NAME: yashpatel6666-azure-ttt
   AZURE_WEBAPP_NAME: yashpatel6666-ttt-app
